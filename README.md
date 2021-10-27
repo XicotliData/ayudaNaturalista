@@ -18,7 +18,7 @@ https://www.naturalista.mx/observations?place_id=67520&project_id=xicotli-data-a
 
 https://www.naturalista.mx/observations?d1=2021-01-01&d2=2021-01-31&place_id=67520&project_id=xicotli-data-abejas-mexicanas-y-sus-flores&quality_grade=research&field:estado%20de%20avance%20planta%20(xicotlidata)=finalizado
 
-## Observaciones de Jalisco, de la familia Lamiace
+### Observaciones de Jalisco y de la familia Lamiace
 
 **Jalisco** su place_id=7411
 
